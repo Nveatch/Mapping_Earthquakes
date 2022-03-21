@@ -1,6 +1,6 @@
 # Mapping_Earthquakes
 
-![webpage](https://github.com/Nveatch/Mapping_Earthquakes/blob/main/static/images/webpage.png)
+![webpage](https://github.com/Nveatch/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/webpage.png)
 
 ## Overview of Project
 
